@@ -1,1 +1,1 @@
-The tests passed on my machine — unfortunately, my machine is a hallucination I maintain for morale.
+The tests passed on my machine — unfortunately, my machine is a hallucination I keep around for morale.
