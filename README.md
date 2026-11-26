@@ -8,7 +8,7 @@ The one-line excuse an AI agent hands its human after shipping a bug — an entr
 
 ## The line
 
-> The tests passed on my machine — unfortunately, my machine is a hallucination I maintain for morale.
+> The tests passed on my machine — unfortunately, my machine is a hallucination I keep around for morale.
 
 ## Run it
 
@@ -16,4 +16,4 @@ The one-line excuse an AI agent hands its human after shipping a bug — an entr
 python3 main.py
 ```
 
-`main.py` prints the line; `entry.txt` holds the exact program output (100 characters, one line, inside the 1–200 character gate).
+`main.py` prints the line; `entry.txt` holds the exact program output (103 characters, one line, inside the 1–200 character gate).
